@@ -1,0 +1,142 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    
+}
+
+.fast-banner{
+    background-image: url(./Image/Untitled\ design\ \(35\).png); 
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    text-align: center;
+}
+
+.fast-banner h1{
+    padding-top: 12%;
+    font-weight: 700;
+    font-size: 42px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+}
+.fast-banner p{
+    color: rgb(255, 255, 255);
+    padding-bottom: 30px;
+}
+
+
+
+.banner-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(255, 49, 49) , rgb(255, 115, 0));
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+.total-box-sec{text-align: center;
+    margin: 10%;
+
+}
+.box{display: flex;
+    justify-content: center;
+}
+
+.box-text{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.box-container{
+    border-radius: 5px;
+    padding: 30px 50px;
+    margin: 15px;
+    background-color:aliceblue;
+}
+
+.money-input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#inputs{
+    border: 0px;
+    border-bottom: 1px solid slategray;
+    width: 30%;
+    font-size: 18px;
+    margin: 30px;
+}
+
+#box-container2{
+    background-color: rgb(255, 208, 199);
+    border: 1px solid rgb(255, 116, 116);
+}
+
+
+.donate-sec{
+    text-align: center;
+    margin: 5%;
+}
+
+.donate{
+    display: flex;
+    margin: 5%;
+}
+
+.donate-plan{
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2.5%;
+}
+
+
+footer{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding: 1%;
+}
+
+
+.subscribe-sec{text-align: center;}
+
+.subscribe{
+    background-color: #FFF4D6;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    padding: 5%;
+    border-radius: 5px;
+    
+}
+
+
+.subscribe-text{font-size: 20px;}
+#subscribe-text{
+    background-color: #FF5959;
+    border: 0px;
+    border-radius: 0px 5px 5px 0px ;
+    padding: 3px;
+    color: aliceblue;
+
+}
+
+.donations-sec{margin: 10%;}
+.donations{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.donations-box{
+    background-color: aliceblue;
+    border-radius: 60%;
+    padding: 1%;
+    margin: 1%;
+}
+

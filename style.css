@@ -79,20 +79,21 @@ body{
 
 .donate-sec{
     text-align: center;
-    margin: 5%;
+    margin: 3%;
 }
 
 .donate{
     display: flex;
-    margin: 5%;
+    margin: 3%;
 }
 
 .donate-plan{
     border-radius: 5px;
-    margin-left: 2%;
-    margin-right: 2%;
-    padding: 2.5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 2%;
 }
+.donate-plan img{width: 30%;}
 
 
 footer{

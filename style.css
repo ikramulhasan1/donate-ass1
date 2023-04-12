@@ -1,8 +1,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px;
-    
+    margin: 0px; 
 }
+
+
 
 .fast-banner{
     background-image: url(./Image/Untitled\ design\ \(35\).png); 
@@ -39,8 +40,8 @@ body{
 
 .total-box-sec{text-align: center;
     margin: 10%;
-
 }
+
 .box{display: flex;
     justify-content: center;
 }
@@ -57,11 +58,11 @@ body{
     background-color:aliceblue;
 }
 
+
 .money-input{
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 #inputs{
     border: 0px;
@@ -75,6 +76,7 @@ body{
     background-color: rgb(255, 208, 199);
     border: 1px solid rgb(255, 116, 116);
 }
+
 
 
 .donate-sec{
@@ -96,12 +98,6 @@ body{
 .donate-plan img{width: 30%;}
 
 
-footer{
-    text-align: center;
-    color: aliceblue;
-    background-color: black;
-    padding: 1%;
-}
 
 
 .subscribe-sec{text-align: center;}
@@ -116,7 +112,6 @@ footer{
     
 }
 
-
 .subscribe-text{font-size: 20px;}
 #subscribe-text{
     background-color: #FF5959;
@@ -124,8 +119,10 @@ footer{
     border-radius: 0px 5px 5px 0px ;
     padding: 3px;
     color: aliceblue;
-
 }
+
+
+
 
 .donations-sec{margin: 10%;}
 .donations{
@@ -139,5 +136,15 @@ footer{
     border-radius: 60%;
     padding: 1%;
     margin: 1%;
+}
+
+
+
+
+footer{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding: 1%;
 }
 
